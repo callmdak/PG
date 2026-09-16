@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\489482a545842a5820940765c7e35706\glm-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\0c28fa3f03231fd9939d8d1b14222d1a\glm-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\91a9efe8bc4f84e4fb7b681e3968acb6\glm-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Pedro\Documents\projects\PG\Lista2\05\build\_deps\glm-subbuild\CMakeFiles\glm-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F6794EFB-E621-3BAF-8F3D-86B2AD00F190}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

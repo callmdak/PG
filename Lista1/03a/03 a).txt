@@ -1,0 +1,1 @@
+O VBO pode armazenar, para cada vértice, suas coordenadas (X,Y) e sua cor (R,G,B). O VAO configura o atributo 0 para posição e o atributo 1 para cor, usando um stride de 5 floats.

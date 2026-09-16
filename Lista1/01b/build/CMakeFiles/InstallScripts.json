@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Pedro/Documents/projects/PG/Lista1/01b/build/cmake_install.cmake",
+		"C:/Users/Pedro/Documents/projects/PG/Lista1/01b/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Pedro/Documents/projects/PG/Lista1/01b/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Pedro/Documents/projects/PG/Lista1/01b/build/_deps/glfw-build/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

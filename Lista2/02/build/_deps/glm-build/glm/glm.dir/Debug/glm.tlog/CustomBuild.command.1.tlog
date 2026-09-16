@@ -1,0 +1,10 @@
+^C:\USERS\PEDRO\DOCUMENTS\PROJECTS\PG\LISTA2\02\BUILD\_DEPS\GLM-SRC\GLM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Pedro/Documents/projects/PG/Lista2/02 -BC:/Users/Pedro/Documents/projects/PG/Lista2/02/build --check-stamp-file C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glm-build/glm/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

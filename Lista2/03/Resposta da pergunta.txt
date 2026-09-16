@@ -1,0 +1,1 @@
+usando a câmera 2D com a janela do mundo de 0 a 800 no eixo X e de 600 a 0 no eixo Y, os objetos podem ser posicionados usando coordenadas referentes a tela, essa configuração serve para posicionar elementos gráficos, como figuras, botões e desenhos, já que cada unidade do mundo corresponde aproximadamente a um pixel da janela.

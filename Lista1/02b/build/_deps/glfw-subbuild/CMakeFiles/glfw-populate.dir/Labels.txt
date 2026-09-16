@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/5a3864d872811ec37f49786993a15e0f/glfw-populate.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/9f9d283e1622ec5ce6c5ff91e28005b9/glfw-populate-complete.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-build.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-configure.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-download.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-install.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-mkdir.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-patch.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-test.rule
+C:/Users/Pedro/Documents/projects/PG/Lista1/02b/build/_deps/glfw-subbuild/CMakeFiles/f64a011b5ed18a3697327eb99bd4d44f/glfw-populate-update.rule

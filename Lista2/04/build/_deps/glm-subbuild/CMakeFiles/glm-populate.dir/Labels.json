@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/09282e389de5316498e1918ec65c70ed/glm-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/307af0b050a4e24be74303ccd3ca550b/glm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/04/build/_deps/glm-subbuild/CMakeFiles/43104ace5cb09def1b149456780a392c/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

@@ -1,0 +1,10 @@
+^C:\USERS\PEDRO\DOCUMENTS\PROJECTS\PG\LISTA1\02A\BUILD\CMAKEFILES\DC7A3703A72D849F4D46CA59D347AB56\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Pedro/Documents/projects/PG/Lista1/02a -BC:/Users/Pedro/Documents/projects/PG/Lista1/02a/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Pedro/Documents/projects/PG/Lista1/02a/build/ProcessamentoGrafico.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

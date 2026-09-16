@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/fcb196984dc59573f119dbf96d54ea98/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/f23966ab6491dfbef095c548b6b1fc72/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Pedro/Documents/projects/PG/Lista2/02/build/_deps/glfw-subbuild/CMakeFiles/cadcf2369deb237bf66b2ee9a10f359b/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

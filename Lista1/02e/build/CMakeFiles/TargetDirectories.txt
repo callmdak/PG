@@ -1,0 +1,12 @@
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/CMakeFiles/glad.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/CMakeFiles/ProcessamentoGrafico.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/CMakeFiles/INSTALL.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/Users/Pedro/Documents/projects/PG/Lista1/02e/build/_deps/glfw-build/docs/CMakeFiles/INSTALL.dir

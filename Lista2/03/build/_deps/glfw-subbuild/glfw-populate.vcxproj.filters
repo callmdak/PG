@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\d93b835a215772469b2c1362f77f4fe4\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\967840a15320dc16c7e3a98252c9d546\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\52ec12268ad145cf1062aae273d46630\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Pedro\Documents\projects\PG\Lista2\03\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B7586DBF-70B8-315C-A014-C762D2658979}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
